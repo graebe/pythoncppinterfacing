@@ -1,0 +1,15 @@
+[
+	{
+		"name": "GCC 10.3.0 x86_64-w64-mingw32",
+		"compilers": {
+			"C": "F:\\MSYS2\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe",
+			"CXX": "F:\\MSYS2\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe"
+		},
+			"preferredGenerator": {
+			"name": "MinGW Makefiles"
+		},
+			"environmentVariables": {
+			"CMT_MINGW_PATH": "F:\\MSYS2\\mingw64\\bin"
+		}
+	}
+]
